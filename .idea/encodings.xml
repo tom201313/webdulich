@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/AlbumController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/FacebookController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/InfoSiteController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/MenuController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/NoticeController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/ProductController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController/UserController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/HomeController/contactController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/AlbumRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/CategoryProductRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/LoginRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/NoticeRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/NoticeStaticRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/UserRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Requests/VideoRequest.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/album/image/addImageAlbum.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/album/image/editImageAlbum.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/album/image/listImageAlbum.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/album/listAlbum.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/facebook/facebookSetting.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/infoSite/infoSite.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/master.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/category/addCategory.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/category/editCategory.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/category/listCategory.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/notice/addNotice.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/notice/editNotice.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/notice/listNotice.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/noticestatic/addNoticeStatic.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/noticestatic/editNoticeStatic.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notices/noticestatic/listNoticeStatic.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/category/addCategory.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/category/editCategory.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/category/listCategory.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/product/addProduct.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/product/editProduct.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/product/listProduct.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/typeMoney/addTypeMoney.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/typeMoney/editTypeMoney.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/product/typeMoney/listTypeMoney.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/user/addUser.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/user/listUser.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/video/addVideo.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/video/editVideo.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/video/listVideo.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/theme/product/productDetail.blade.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
